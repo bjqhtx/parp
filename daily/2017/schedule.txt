@@ -6,11 +6,13 @@ January
 #OK# 1. brought my status back
 #OK# 2. first thing first ...linux
 #Overall evaluation : very good @Jan
+========== PAST AGE ===========
 
+========== RIGHT NOW ============
 February
 
 0. Find some data for the following English Study
-	1.1
+	1.1 FIVE words per day
 
 1. master linux shell
 	1.1 function implementation : Architecture of automation ops 
