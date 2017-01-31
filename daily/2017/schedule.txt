@@ -1,0 +1,56 @@
+January
+#OK#0. byebye wow 
+#OK#1. brought my status back
+#OK#2. first thing first ...linux
+#very good @Jan
+
+
+February
+
+0. Find some data for the following English Study
+	1.1
+
+1. master linux shell
+	1.1 function implementation : Architecture of automation ops 
+		a.regularly data collecion
+			using template shellscript : e.g. catalog4DB.sh 
+		b.data analysis
+			junior level : analysis given template 
+		c.do some actions that attemp to slove some issuses
+	1.2 regularly experiment
+		a.frequence : twice per week
+
+2. learn "sed" and "awk"
+	1.1 sed
+	1.2 awk
+
+3. learn network
+
+March
+0. Eng.
+1. Network@linux : master
+2. Automation ops : python nagios zabbix
+
+
+April
+0. Eng.
+1. Automation ops : python nagios zabbix
+2. 
+
+=====================out of three month==========================
+
+May
+
+June
+
+July
+
+August
+
+September
+
+October
+
+November
+
+December
