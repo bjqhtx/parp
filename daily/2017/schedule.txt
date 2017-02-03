@@ -25,11 +25,14 @@ February
 		a.frequence : twice per week
 
 2. learn "sed" and "awk"
-	1.1 sed
-	1.2 awk
+	2.1 sed
+	2.2 awk 
 
 3. learn network
-
+	3.1 OSI
+	3.2 TCP/IP
+	3.3 command4network @linux
+	
 March
 0. Eng.
 1. Network@linux : master
