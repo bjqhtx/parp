@@ -1,0 +1,11 @@
+##
+/mis
+  /bin    #exec
+  /etc    #conf
+  /log    #logs
+  /share  #scripts to do sth.
+  /lib    
+  /src    
+  /update #scripts to push
+  /var    #tmp
+  /mail

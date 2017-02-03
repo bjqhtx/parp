@@ -1,0 +1,2 @@
+##### AWK 内置函数、自定义函数的示例
+http://edu.51cto.com/lesson/id-92357.html
