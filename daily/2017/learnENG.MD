@@ -12,4 +12,5 @@ redundant
 This word is redundant, it can be left out.
 
 httpd -t
-syntax OK
+syntax  OK
+grant  allow all granted 
