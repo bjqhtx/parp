@@ -1,12 +1,6 @@
-#@version v1.2.2
-#@author daidong
-
-January
-#OK# 0. byebye wow 
-#OK# 1. brought my status back
-#OK# 2. first thing first ...linux
-#Overall evaluation : very good @Jan
-========== PAST AGE ===========
+#@version v1.2.2.1
+#@author tkokok
+#@log
 
 ========== RIGHT NOW ============
 February
@@ -85,3 +79,11 @@ October
 November
 
 December
+
+========== PAST AGE ===========
+###January
+#OK# 0. byebye wow 
+#OK# 1. brought my status back
+#OK# 2. first thing first ...linux
+#Overall evaluation : very good @Jan
+========== Jan. PASED =========
