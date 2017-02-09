@@ -1,0 +1,19 @@
+2.09 http://edu.51cto.com/index.php?do=lession&id=59898
+
+The Way To Improve A Linux Ops Architect
+运维架构师成长必经之路
+
+I:运维工程师技术能力
+	常见服务精通；
+	大型故障排错能力和经验
+	一定的开发能力
+	前沿技术钻研能力
+	从底层到应用的优化能力
+	架构、可拓展性设计能力
+
+II:目标制定要遵循以下标准
+	Spcific:明确性
+	Time-based:时限性
+	Relevant:相关性
+	Attainable:可衡量性
+	Measurable:可实现性
