@@ -1,43 +1,74 @@
-#@version v1.2.2.1
-#@author tkokok
-#@log
+@version v1.3.2.2
+@author tkokok
+@log
+	2017.2.9	v1.3
 
 ========== RIGHT NOW ============
 February
+/**
+@log
+	Title in month modifierd.
+	Update schedule : Increased many descriptions
+	Change notes from shell style to java style
+	Change sth. in shell sheet 
+*/
 
-0. Find some data for the following English Study
-	1.1 FIVE words per day
 
-1. master linux shell
-	1.1 function implementation : Architecture of automation ops 
+Feb.0. Find some data for the following English Study
+	1.1 many unfamiliar words everyday
+
+Feb.1. master linux shell
+	1.1 function implementation : Architecture of Automation Ops : misss/mis
+		URL = https://github.com/tkokok/misss.git
 		a.regularly data collecion
-			using template shellscript : e.g. catalog4DB.sh 
+			autocollection:autologXXXperTIME.sh
+			tolookupsth.:catlogXXX.sh
+			//using template shellscript : e.g. catalog4DB.sh 
+			//this may not be best for a mis	
 		b.data analysis
-			junior level : analysis given template 
+			junior level : analysis given template from tomcat 
 		c.do some actions that attemp to slove some issuses
-	1.2 regularly experiment
-		a.frequence : twice per week
+			e.g.: to restart a service
+	//1.2 regularly experiment
+	1.2 experiment
+		//a.frequence : twice per week
+		a.do experiment when confuse any in linux
 	1.3 review commands 
+		a.use app towork/backhome
 	1.4 make install
-	
+		a. ./configure XX   ;  make && make install
 
-2. learn "sed" and "awk"
+Feb.2. learn "sed" and "awk"
 	2.1 sed
-	2.2 awk 
+		s###g
+		#d
+	2.2 awk (awk is very very important!!)
+		a.BEGIN/END
+		b.loop
+		c.functions
+		d.vars
 
-3. learn network
-	3.1 OSI
-	3.2 TCP/IP
-	3.3 httpd(apache)
-	3.4 command4network @linux
+Feb.3. learn network
+	3.1 OSI	
+	3.2 TCP/IP 	 
+		a.IP Headers   
+		b.TCP Headers
+	3.3 I/O modules  synchronous/asynchronous   block/nonblock
+		a.FIVE modules...
+	3.4 web server
+		a.httpd(apache)
+		b.nginx
+	3.5 command4network @linux
 		a.ss
 		b.netstat
-@experiment
+		c.iptables [-t tables] -COMMAND CHAIN [OPTIONS] 
+			C(-I# -A) R(-R#) U(-nvL) D(-D#)...
+Feb.@experiment
 	1st:
 	2nd:
 	3rd:PATH in ssh
 	
-@summary 
+Feb.@summary 
 	1stweek:
 		leand "awk" and Tcp/IP
 		start to rebuilt project "mis"
@@ -72,6 +103,7 @@ BigData:
 </target>
 
 May
+1. contact with Mr.Zhu & ...
 
 June
 
